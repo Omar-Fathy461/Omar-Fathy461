@@ -3,7 +3,7 @@
 </a>
 
 ## 💫 About Me:
-=> Junior Frontend Developer | Passionate about Web Development & UI/UX Design<br>=> I'm a passionate Front-End Developer who loves turning ideas into dynamic digital experiences. With solid skills in HTML, CSS/SASS, JavaScript, and React js, I build modern, responsive user interfaces that stand out.<br><br>=> I enjoy tackling creative challenges and finding new ways to enhance user interactions and performance. My goal is to create solutions that not only meet client needs but also deliver real results. I'm always excited to learn and keep up with the latest trends in web development
+=> Junior Frontend Developer | Passionate about Web Development & UI/UX Design<br><br>=> I'm a passionate Front-End Developer who loves turning ideas into dynamic digital experiences. With solid skills in HTML, CSS/SASS, JavaScript, and React js, I build modern, responsive user interfaces that stand out.<br><br>=> I enjoy tackling creative challenges and finding new ways to enhance user interactions and performance. My goal is to create solutions that not only meet client needs but also deliver real results. I'm always excited to learn and keep up with the latest trends in web development
 
 [![](https://visitcount.itsvg.in/api?id=Omar-Fathy461&icon=2&color=6)](https://visitcount.itsvg.in)
 
