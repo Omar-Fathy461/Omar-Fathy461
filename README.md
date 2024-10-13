@@ -52,9 +52,10 @@ I enjoy tackling creative challenges and finding new ways to enhance user intera
 <h3 align="left">GitHub Stats:</h3>
 
 <!-- GitHub Stats Section -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omar-fathy461&show_icons=true&locale=en&layout=compact&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=79ff97" alt="omar-fathy461" /></p>
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=omar-fathy461&theme=blue_navy&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omar-fathy461&theme=blue_navy&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omar-fathy461&show_icons=true&locale=en&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=79ff97" alt="omar-fathy461" /></p>
+
 
 <!-- GitHub Streak Stats -->
-<p><img align="center" src="https://streak-stats.demolab.com?user=omar-fathy461&theme=dark&background=0d1117&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" alt="omar-fathy461" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com?user=omar-fathy461&theme=blue_navy&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" alt="omar-fathy461" /></p>
