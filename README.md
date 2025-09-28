@@ -3,7 +3,16 @@
 </a>
 
 ## 💫 About Me:
-=> Junior Frontend Developer | Passionate about Web Development & UI/UX Design<br><br>=> I'm a passionate Front-End Developer who loves turning ideas into dynamic digital experiences. With solid skills in HTML, CSS/SASS, JavaScript, and React js, I build modern, responsive user interfaces that stand out.<br><br>=> I enjoy tackling creative challenges and finding new ways to enhance user interactions and performance. My goal is to create solutions that not only meet client needs but also deliver real results. I'm always excited to learn and keep up with the latest trends in web development
+=> Full-Stack Developer | Passionate about Web Development, UI/UX Design, and Scalable Systems
+
+=> I am a motivated developer skilled in building modern, responsive, and dynamic web applications.
+With solid experience in Frontend (HTML, CSS/SASS, JavaScript, React, Next.js, TailwindCSS, Redux Toolkit, Bootstrap, TypeScript), I create sleek and interactive user interfaces.
+
+=> On the Backend, I work with Node.js, Express.js, MongoDB, PostgreSQL, Prisma, and Supabase to deliver robust, secure, and scalable solutions.
+
+=> I also use DevOps & Tools like Docker, Git, GitHub, and Postman to streamline development workflows and ensure smooth deployment.
+
+=> My goal is to craft applications that combine clean design, strong functionality, and great user experience while continuously learning and exploring the latest technologies.
 
 [![](https://visitcount.itsvg.in/api?id=Omar-Fathy461&icon=2&color=6)](https://visitcount.itsvg.in)
 
